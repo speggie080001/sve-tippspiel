@@ -1,0 +1,59 @@
+{
+  "updated": "2026-09-09T23:24:55.276733+02:00",
+  "ranking": [
+    {
+      "platz": 1,
+      "vorname": "Daniel",
+      "name": "Schätzle",
+      "punkte": 12
+    },
+    {
+      "platz": 2,
+      "vorname": "Adrian",
+      "name": "Winterhalder",
+      "punkte": 8
+    },
+    {
+      "platz": 2,
+      "vorname": "Anna",
+      "name": "Winterhalder",
+      "punkte": 8
+    },
+    {
+      "platz": 2,
+      "vorname": "Tobi",
+      "name": "Knöpfle",
+      "punkte": 8
+    },
+    {
+      "platz": 5,
+      "vorname": "Leon",
+      "name": "Schätzle",
+      "punkte": 4
+    },
+    {
+      "platz": 5,
+      "vorname": "Lena",
+      "name": "Gutmann",
+      "punkte": 4
+    },
+    {
+      "platz": 5,
+      "vorname": "Niko",
+      "name": "Zapf",
+      "punkte": 4
+    },
+    {
+      "platz": 5,
+      "vorname": "Felix",
+      "name": "Zipfle",
+      "punkte": 4
+    },
+    {
+      "platz": 9,
+      "vorname": "Fabian",
+      "name": "Bröde",
+      "punkte": 2
+    }
+  ]
+}
