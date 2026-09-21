@@ -1,4 +1,281 @@
 {
-  "updated": "2026-09-21T13:46:39.419442+02:00",
-  "ranking": []
+  "updated": "2026-09-21T13:48:20.999808+02:00",
+  "ranking": [
+    {
+      "platz": 1,
+      "vorname": "Michael",
+      "name": "Langenbacher",
+      "punkte": 12
+    },
+    {
+      "platz": 2,
+      "vorname": "Diana",
+      "name": "Renz",
+      "punkte": 11
+    },
+    {
+      "platz": 2,
+      "vorname": "Willi",
+      "name": "Ott",
+      "punkte": 11
+    },
+    {
+      "platz": 4,
+      "vorname": "Steffen",
+      "name": "Rohrer",
+      "punkte": 10
+    },
+    {
+      "platz": 4,
+      "vorname": "Sofia",
+      "name": "Mayer",
+      "punkte": 10
+    },
+    {
+      "platz": 6,
+      "vorname": "Daniel",
+      "name": "Schätzle",
+      "punkte": 9
+    },
+    {
+      "platz": 6,
+      "vorname": "Leon",
+      "name": "Schätzle",
+      "punkte": 9
+    },
+    {
+      "platz": 6,
+      "vorname": "Niko",
+      "name": "Zapf",
+      "punkte": 9
+    },
+    {
+      "platz": 6,
+      "vorname": "Simon",
+      "name": "Neiniger",
+      "punkte": 9
+    },
+    {
+      "platz": 6,
+      "vorname": "SV",
+      "name": "Mundelfingen",
+      "punkte": 9
+    },
+    {
+      "platz": 6,
+      "vorname": "Robin",
+      "name": "Schwörer",
+      "punkte": 9
+    },
+    {
+      "platz": 6,
+      "vorname": "Hase",
+      "name": "Hasebeck",
+      "punkte": 9
+    },
+    {
+      "platz": 13,
+      "vorname": "Stefan",
+      "name": "Kleiser",
+      "punkte": 8
+    },
+    {
+      "platz": 13,
+      "vorname": "Simon",
+      "name": "Ott",
+      "punkte": 8
+    },
+    {
+      "platz": 13,
+      "vorname": "Petra",
+      "name": "Walter",
+      "punkte": 8
+    },
+    {
+      "platz": 16,
+      "vorname": "Fabian",
+      "name": "Bröde",
+      "punkte": 7
+    },
+    {
+      "platz": 16,
+      "vorname": "Felix",
+      "name": "Zipfle",
+      "punkte": 7
+    },
+    {
+      "platz": 16,
+      "vorname": "Lars",
+      "name": "Dorer",
+      "punkte": 7
+    },
+    {
+      "platz": 16,
+      "vorname": "Michael",
+      "name": "Schremp",
+      "punkte": 7
+    },
+    {
+      "platz": 16,
+      "vorname": "Johanna",
+      "name": "Knöpfle 2",
+      "punkte": 7
+    },
+    {
+      "platz": 16,
+      "vorname": "Sergej",
+      "name": "Werner",
+      "punkte": 7
+    },
+    {
+      "platz": 16,
+      "vorname": "Stefan",
+      "name": "Zorko",
+      "punkte": 7
+    },
+    {
+      "platz": 23,
+      "vorname": "Lena",
+      "name": "Gutmann",
+      "punkte": 6
+    },
+    {
+      "platz": 23,
+      "vorname": "Tobi",
+      "name": "Knöpfle",
+      "punkte": 6
+    },
+    {
+      "platz": 23,
+      "vorname": "Pascal",
+      "name": "Ott",
+      "punkte": 6
+    },
+    {
+      "platz": 23,
+      "vorname": "Jörg",
+      "name": "Hermann",
+      "punkte": 6
+    },
+    {
+      "platz": 23,
+      "vorname": "Bene",
+      "name": "Raufer",
+      "punkte": 6
+    },
+    {
+      "platz": 23,
+      "vorname": "Claudio",
+      "name": "Usai",
+      "punkte": 6
+    },
+    {
+      "platz": 23,
+      "vorname": "Tobias",
+      "name": "Willmann",
+      "punkte": 6
+    },
+    {
+      "platz": 23,
+      "vorname": "Ralf",
+      "name": "Scherzinger",
+      "punkte": 6
+    },
+    {
+      "platz": 23,
+      "vorname": "Jonas",
+      "name": "Bäre",
+      "punkte": 6
+    },
+    {
+      "platz": 23,
+      "vorname": "Fridolin",
+      "name": "Kleiser",
+      "punkte": 6
+    },
+    {
+      "platz": 23,
+      "vorname": "Timo",
+      "name": "Wehrle",
+      "punkte": 6
+    },
+    {
+      "platz": 34,
+      "vorname": "Günter",
+      "name": "Schwab",
+      "punkte": 5
+    },
+    {
+      "platz": 34,
+      "vorname": "Bettina",
+      "name": "Rister",
+      "punkte": 5
+    },
+    {
+      "platz": 34,
+      "vorname": "Lars",
+      "name": "Schwär",
+      "punkte": 5
+    },
+    {
+      "platz": 37,
+      "vorname": "Adrian",
+      "name": "Winterhalder",
+      "punkte": 4
+    },
+    {
+      "platz": 37,
+      "vorname": "Julian",
+      "name": "von Winkler",
+      "punkte": 4
+    },
+    {
+      "platz": 37,
+      "vorname": "Matthias",
+      "name": "Rogg",
+      "punkte": 4
+    },
+    {
+      "platz": 37,
+      "vorname": "Heinz",
+      "name": "Bährmann",
+      "punkte": 4
+    },
+    {
+      "platz": 37,
+      "vorname": "Ralf",
+      "name": "Bährmann",
+      "punkte": 4
+    },
+    {
+      "platz": 37,
+      "vorname": "Bernd",
+      "name": "Knöpfle",
+      "punkte": 4
+    },
+    {
+      "platz": 43,
+      "vorname": "Lisa",
+      "name": "Walter",
+      "punkte": 3
+    },
+    {
+      "platz": 44,
+      "vorname": "Anna",
+      "name": "Winterhalder",
+      "punkte": 2
+    },
+    {
+      "platz": 44,
+      "vorname": "Mario",
+      "name": "Fuß",
+      "punkte": 2
+    },
+    {
+      "platz": 44,
+      "vorname": "Klemens",
+      "name": "Knöpfle",
+      "punkte": 2
+    }
+  ]
 }
