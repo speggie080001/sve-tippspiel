@@ -1,563 +1,563 @@
 {
-  "updated": "2026-10-31T12:23:20.778509+00:00",
+  "updated": "2026-11-08T14:09:42.760459+01:00",
   "ranking": [
-    {
-      "platz": 1,
-      "vorname": "Willi",
-      "name": "Ott",
-      "punkte": 23
-    },
     {
       "platz": 1,
       "vorname": "Michael",
       "name": "Langenbacher",
-      "punkte": 23
+      "punkte": 27
+    },
+    {
+      "platz": 2,
+      "vorname": "Willi",
+      "name": "Ott",
+      "punkte": 25
+    },
+    {
+      "platz": 3,
+      "vorname": "Ferdinand",
+      "name": "Schmid",
+      "punkte": 24
+    },
+    {
+      "platz": 3,
+      "vorname": "Inge",
+      "name": "Heizmann",
+      "punkte": 24
     },
     {
       "platz": 3,
       "vorname": "Marcel",
       "name": "Waldvogel",
+      "punkte": 24
+    },
+    {
+      "platz": 3,
+      "vorname": "Marvin",
+      "name": "Ketterer",
+      "punkte": 24
+    },
+    {
+      "platz": 7,
+      "vorname": "Daniel",
+      "name": "Schätzle",
+      "punkte": 23
+    },
+    {
+      "platz": 7,
+      "vorname": "Leon",
+      "name": "Schätzle",
+      "punkte": 23
+    },
+    {
+      "platz": 7,
+      "vorname": "Lars",
+      "name": "Dorer",
+      "punkte": 23
+    },
+    {
+      "platz": 7,
+      "vorname": "Simon",
+      "name": "Ott",
+      "punkte": 23
+    },
+    {
+      "platz": 7,
+      "vorname": "Simon",
+      "name": "Neininger",
+      "punkte": 23
+    },
+    {
+      "platz": 7,
+      "vorname": "Robin",
+      "name": "Schwörer",
+      "punkte": 23
+    },
+    {
+      "platz": 7,
+      "vorname": "Maik",
+      "name": "Straub",
+      "punkte": 23
+    },
+    {
+      "platz": 7,
+      "vorname": "Urban",
+      "name": "Rohrer",
+      "punkte": 23
+    },
+    {
+      "platz": 7,
+      "vorname": "Ewald",
+      "name": "Kienzler",
+      "punkte": 23
+    },
+    {
+      "platz": 16,
+      "vorname": "Steffen",
+      "name": "Rohrer",
       "punkte": 22
     },
     {
-      "platz": 4,
+      "platz": 16,
+      "vorname": "Günter",
+      "name": "Schwab",
+      "punkte": 22
+    },
+    {
+      "platz": 16,
+      "vorname": "Johanna",
+      "name": "Knöpfle",
+      "punkte": 22
+    },
+    {
+      "platz": 16,
+      "vorname": "Johannes",
+      "name": "Kaufmann",
+      "punkte": 22
+    },
+    {
+      "platz": 16,
+      "vorname": "Fabian",
+      "name": "Meister",
+      "punkte": 22
+    },
+    {
+      "platz": 16,
+      "vorname": "Nobsi",
+      "name": "xxx",
+      "punkte": 22
+    },
+    {
+      "platz": 22,
+      "vorname": "Nico",
+      "name": "Zapf",
+      "punkte": 21
+    },
+    {
+      "platz": 22,
+      "vorname": "Felix",
+      "name": "Zipfle",
+      "punkte": 21
+    },
+    {
+      "platz": 22,
+      "vorname": "Diana",
+      "name": "Renz",
+      "punkte": 21
+    },
+    {
+      "platz": 22,
+      "vorname": "Michael",
+      "name": "Schremp",
+      "punkte": 21
+    },
+    {
+      "platz": 22,
+      "vorname": "Stefan",
+      "name": "Zorko",
+      "punkte": 21
+    },
+    {
+      "platz": 22,
+      "vorname": "Felix",
+      "name": "Heitzmann",
+      "punkte": 21
+    },
+    {
+      "platz": 22,
+      "vorname": "Jenny",
+      "name": "Saum",
+      "punkte": 21
+    },
+    {
+      "platz": 22,
       "vorname": "Florian",
       "name": "Gloeden",
       "punkte": 21
     },
     {
-      "platz": 5,
-      "vorname": "Steffen",
-      "name": "Rohrer",
-      "punkte": 20
-    },
-    {
-      "platz": 5,
-      "vorname": "Ferdinand",
-      "name": "Schmid",
-      "punkte": 20
-    },
-    {
-      "platz": 5,
-      "vorname": "Inge",
-      "name": "Heizmann",
-      "punkte": 20
-    },
-    {
-      "platz": 5,
-      "vorname": "Fabian",
-      "name": "Meister",
-      "punkte": 20
-    },
-    {
-      "platz": 5,
-      "vorname": "Nobsi",
-      "name": "xxx",
-      "punkte": 20
-    },
-    {
-      "platz": 5,
-      "vorname": "Marvin",
-      "name": "Ketterer",
-      "punkte": 20
-    },
-    {
-      "platz": 11,
-      "vorname": "Daniel",
-      "name": "Schätzle",
-      "punkte": 19
-    },
-    {
-      "platz": 11,
-      "vorname": "Leon",
-      "name": "Schätzle",
-      "punkte": 19
-    },
-    {
-      "platz": 11,
-      "vorname": "Lars",
-      "name": "Dorer",
-      "punkte": 19
-    },
-    {
-      "platz": 11,
-      "vorname": "Diana",
-      "name": "Renz",
-      "punkte": 19
-    },
-    {
-      "platz": 11,
-      "vorname": "Simon",
-      "name": "Ott",
-      "punkte": 19
-    },
-    {
-      "platz": 11,
-      "vorname": "Simon",
-      "name": "Neininger",
-      "punkte": 19
-    },
-    {
-      "platz": 11,
+      "platz": 22,
       "vorname": "Robin",
-      "name": "Schwörer",
+      "name": "Gutmann",
+      "punkte": 21
+    },
+    {
+      "platz": 31,
+      "vorname": "Sofia",
+      "name": "Mayer",
+      "punkte": 20
+    },
+    {
+      "platz": 31,
+      "vorname": "Stefan",
+      "name": "Kleiser",
+      "punkte": 20
+    },
+    {
+      "platz": 31,
+      "vorname": "Claudio",
+      "name": "Usai",
+      "punkte": 20
+    },
+    {
+      "platz": 31,
+      "vorname": "Petra",
+      "name": "Walter",
+      "punkte": 20
+    },
+    {
+      "platz": 31,
+      "vorname": "Angela",
+      "name": "Ott",
+      "punkte": 20
+    },
+    {
+      "platz": 31,
+      "vorname": "Marco",
+      "name": "Wirbser",
+      "punkte": 20
+    },
+    {
+      "platz": 31,
+      "vorname": "Johanna",
+      "name": "Knöpfle",
+      "punkte": 20
+    },
+    {
+      "platz": 31,
+      "vorname": "Ralf",
+      "name": "Kleiser",
+      "punkte": 20
+    },
+    {
+      "platz": 31,
+      "vorname": "Roswitha",
+      "name": "Willmann",
+      "punkte": 20
+    },
+    {
+      "platz": 31,
+      "vorname": "Matthias",
+      "name": "Wilde",
+      "punkte": 20
+    },
+    {
+      "platz": 31,
+      "vorname": "Johanna",
+      "name": "Hauser",
+      "punkte": 20
+    },
+    {
+      "platz": 31,
+      "vorname": "Simon",
+      "name": "Kaiser",
+      "punkte": 20
+    },
+    {
+      "platz": 43,
+      "vorname": "Lena",
+      "name": "Gutmann",
       "punkte": 19
     },
     {
-      "platz": 11,
+      "platz": 43,
+      "vorname": "SV",
+      "name": "Mundelfingen",
+      "punkte": 19
+    },
+    {
+      "platz": 43,
+      "vorname": "Sergej",
+      "name": "Werner",
+      "punkte": 19
+    },
+    {
+      "platz": 43,
       "vorname": "Andy",
       "name": "Hasebeck",
       "punkte": 19
     },
     {
-      "platz": 11,
-      "vorname": "Maik",
-      "name": "Straub",
+      "platz": 43,
+      "vorname": "Christopher",
+      "name": "Maier",
       "punkte": 19
     },
     {
-      "platz": 11,
+      "platz": 43,
       "vorname": "Felix",
-      "name": "Heitzmann",
+      "name": "Kleiser",
       "punkte": 19
     },
     {
-      "platz": 11,
-      "vorname": "Urban",
-      "name": "Rohrer",
+      "platz": 43,
+      "vorname": "Dirk",
+      "name": "Brenninger",
       "punkte": 19
     },
     {
-      "platz": 11,
-      "vorname": "Jenny",
-      "name": "Saum",
+      "platz": 43,
+      "vorname": "Reinhard",
+      "name": "Fischer",
       "punkte": 19
     },
     {
-      "platz": 11,
-      "vorname": "Ewald",
-      "name": "Kienzler",
-      "punkte": 19
-    },
-    {
-      "platz": 24,
-      "vorname": "Sofia",
-      "name": "Mayer",
-      "punkte": 18
-    },
-    {
-      "platz": 24,
-      "vorname": "Günter",
+      "platz": 43,
+      "vorname": "Leonie",
       "name": "Schwab",
-      "punkte": 18
+      "punkte": 19
     },
     {
-      "platz": 24,
-      "vorname": "Johanna",
+      "platz": 52,
+      "vorname": "Tobi",
       "name": "Knöpfle",
       "punkte": 18
     },
     {
-      "platz": 24,
-      "vorname": "Johannes",
-      "name": "Kaufmann",
+      "platz": 52,
+      "vorname": "Bettina",
+      "name": "Risterer",
       "punkte": 18
     },
     {
-      "platz": 24,
+      "platz": 52,
+      "vorname": "Tobias",
+      "name": "Willmann",
+      "punkte": 18
+    },
+    {
+      "platz": 52,
+      "vorname": "Timo",
+      "name": "Wehrle",
+      "punkte": 18
+    },
+    {
+      "platz": 52,
+      "vorname": "Heiko",
+      "name": "xxxx",
+      "punkte": 18
+    },
+    {
+      "platz": 52,
+      "vorname": "Ralf",
+      "name": "Henkelmann",
+      "punkte": 18
+    },
+    {
+      "platz": 52,
       "vorname": "Sven",
       "name": "Hofmeier",
       "punkte": 18
     },
     {
-      "platz": 24,
-      "vorname": "Roswitha",
-      "name": "Willmann",
+      "platz": 52,
+      "vorname": "Kevin",
+      "name": "Rontke",
       "punkte": 18
     },
     {
-      "platz": 30,
+      "platz": 60,
+      "vorname": "Adrian",
+      "name": "Winterhalder",
+      "punkte": 17
+    },
+    {
+      "platz": 60,
       "vorname": "Fabian",
       "name": "Bröde",
       "punkte": 17
     },
     {
-      "platz": 30,
-      "vorname": "Lena",
-      "name": "Gutmann",
+      "platz": 60,
+      "vorname": "Fridolin",
+      "name": "Kleiser",
       "punkte": 17
     },
     {
-      "platz": 30,
-      "vorname": "Nico",
-      "name": "Zapf",
-      "punkte": 17
-    },
-    {
-      "platz": 30,
-      "vorname": "Felix",
-      "name": "Zipfle",
-      "punkte": 17
-    },
-    {
-      "platz": 30,
-      "vorname": "SV",
-      "name": "Mundelfingen",
-      "punkte": 17
-    },
-    {
-      "platz": 30,
-      "vorname": "Michael",
-      "name": "Schremp",
-      "punkte": 17
-    },
-    {
-      "platz": 30,
-      "vorname": "Stefan",
-      "name": "Zorko",
-      "punkte": 17
-    },
-    {
-      "platz": 30,
+      "platz": 60,
       "vorname": "Armin",
       "name": "Heizmann",
       "punkte": 17
     },
     {
-      "platz": 30,
-      "vorname": "Felix",
-      "name": "Kleiser",
+      "platz": 60,
+      "vorname": "Bruno",
+      "name": "Ott",
       "punkte": 17
     },
     {
-      "platz": 39,
-      "vorname": "Tobi",
-      "name": "Knöpfle",
+      "platz": 60,
+      "vorname": "Melissa",
+      "name": "Kilian",
+      "punkte": 17
+    },
+    {
+      "platz": 66,
+      "vorname": "Mario",
+      "name": "Fuß",
       "punkte": 16
     },
     {
-      "platz": 39,
-      "vorname": "Stefan",
-      "name": "Kleiser",
-      "punkte": 16
-    },
-    {
-      "platz": 39,
-      "vorname": "Bettina",
-      "name": "Risterer",
-      "punkte": 16
-    },
-    {
-      "platz": 39,
-      "vorname": "Claudio",
-      "name": "Usai",
-      "punkte": 16
-    },
-    {
-      "platz": 39,
-      "vorname": "Petra",
-      "name": "Walter",
-      "punkte": 16
-    },
-    {
-      "platz": 39,
-      "vorname": "Tobias",
-      "name": "Willmann",
-      "punkte": 16
-    },
-    {
-      "platz": 39,
-      "vorname": "Heiko",
-      "name": "xxxx",
-      "punkte": 16
-    },
-    {
-      "platz": 39,
-      "vorname": "Ralf",
-      "name": "Henkelmann",
-      "punkte": 16
-    },
-    {
-      "platz": 39,
-      "vorname": "Angela",
+      "platz": 66,
+      "vorname": "Pascal",
       "name": "Ott",
       "punkte": 16
     },
     {
-      "platz": 39,
-      "vorname": "Marco",
+      "platz": 66,
+      "vorname": "Detlef",
       "name": "Wirbser",
       "punkte": 16
     },
     {
-      "platz": 39,
-      "vorname": "Johanna",
-      "name": "Knöpfle",
+      "platz": 66,
+      "vorname": "Fabi",
+      "name": "Benz",
       "punkte": 16
     },
     {
-      "platz": 39,
-      "vorname": "Ralf",
-      "name": "Kleiser",
+      "platz": 66,
+      "vorname": "Egon",
+      "name": "Baumann",
       "punkte": 16
     },
     {
-      "platz": 39,
-      "vorname": "Matthias",
-      "name": "Wilde",
-      "punkte": 16
-    },
-    {
-      "platz": 39,
-      "vorname": "Johanna",
-      "name": "Hauser",
-      "punkte": 16
-    },
-    {
-      "platz": 39,
+      "platz": 66,
       "vorname": "Simon",
-      "name": "Kaiser",
+      "name": "Wehrle",
       "punkte": 16
     },
     {
-      "platz": 54,
-      "vorname": "Adrian",
-      "name": "Winterhalder",
+      "platz": 72,
+      "vorname": "Lars",
+      "name": "Schwär",
       "punkte": 15
     },
     {
-      "platz": 54,
-      "vorname": "Fridolin",
-      "name": "Kleiser",
-      "punkte": 15
-    },
-    {
-      "platz": 54,
-      "vorname": "Sergej",
-      "name": "Werner",
-      "punkte": 15
-    },
-    {
-      "platz": 54,
-      "vorname": "Bruno",
-      "name": "Ott",
-      "punkte": 15
-    },
-    {
-      "platz": 54,
+      "platz": 72,
       "vorname": "Günter",
       "name": "Ott",
       "punkte": 15
     },
     {
-      "platz": 54,
-      "vorname": "Melissa",
-      "name": "Kilian",
-      "punkte": 15
-    },
-    {
-      "platz": 54,
-      "vorname": "Christopher",
-      "name": "Maier",
-      "punkte": 15
-    },
-    {
-      "platz": 54,
-      "vorname": "Robin",
-      "name": "Gutmann",
-      "punkte": 15
-    },
-    {
-      "platz": 54,
-      "vorname": "Dirk",
-      "name": "Brenninger",
-      "punkte": 15
-    },
-    {
-      "platz": 54,
-      "vorname": "Reinhard",
-      "name": "Fischer",
-      "punkte": 15
-    },
-    {
-      "platz": 54,
-      "vorname": "Leonie",
-      "name": "Schwab",
-      "punkte": 15
-    },
-    {
-      "platz": 65,
-      "vorname": "Pascal",
-      "name": "Ott",
-      "punkte": 14
-    },
-    {
-      "platz": 65,
-      "vorname": "Jörg",
-      "name": "Hermann",
-      "punkte": 14
-    },
-    {
-      "platz": 65,
-      "vorname": "Timo",
-      "name": "Wehrle",
-      "punkte": 14
-    },
-    {
-      "platz": 65,
-      "vorname": "Detlef",
-      "name": "Wirbser",
-      "punkte": 14
-    },
-    {
-      "platz": 65,
-      "vorname": "Fabi",
-      "name": "Benz",
-      "punkte": 14
-    },
-    {
-      "platz": 65,
-      "vorname": "Egon",
-      "name": "Baumann",
-      "punkte": 14
-    },
-    {
-      "platz": 65,
-      "vorname": "Kevin",
-      "name": "Rontke",
-      "punkte": 14
-    },
-    {
-      "platz": 65,
-      "vorname": "Robin",
-      "name": "Horl-Wilde",
-      "punkte": 14
-    },
-    {
-      "platz": 65,
-      "vorname": "Simon",
-      "name": "Wehrle",
+      "platz": 74,
+      "vorname": "Anna",
+      "name": "Winterhalder",
       "punkte": 14
     },
     {
       "platz": 74,
       "vorname": "Jörg",
+      "name": "Hermann",
+      "punkte": 14
+    },
+    {
+      "platz": 74,
+      "vorname": "Bene",
+      "name": "Raufer",
+      "punkte": 14
+    },
+    {
+      "platz": 74,
+      "vorname": "Klemens",
+      "name": "Knöpfle",
+      "punkte": 14
+    },
+    {
+      "platz": 74,
+      "vorname": "Jonas",
+      "name": "Bäre",
+      "punkte": 14
+    },
+    {
+      "platz": 74,
+      "vorname": "Robin",
+      "name": "Horl-Wilde",
+      "punkte": 14
+    },
+    {
+      "platz": 80,
+      "vorname": "Lisa",
+      "name": "Walter",
+      "punkte": 13
+    },
+    {
+      "platz": 80,
+      "vorname": "Jörg",
       "name": "Disch",
       "punkte": 13
     },
     {
-      "platz": 75,
-      "vorname": "Mario",
-      "name": "Fuß",
-      "punkte": 12
-    },
-    {
-      "platz": 75,
+      "platz": 82,
       "vorname": "Julian",
       "name": "von Winkler",
       "punkte": 12
     },
     {
-      "platz": 75,
+      "platz": 82,
+      "vorname": "Matthias",
+      "name": "Rogg",
+      "punkte": 12
+    },
+    {
+      "platz": 82,
       "vorname": "Heinz",
       "name": "Bährmann",
       "punkte": 12
     },
     {
-      "platz": 75,
-      "vorname": "Bene",
-      "name": "Raufer",
+      "platz": 82,
+      "vorname": "Ralf",
+      "name": "Bährmann",
       "punkte": 12
     },
     {
-      "platz": 75,
-      "vorname": "Klemens",
-      "name": "Knöpfle",
-      "punkte": 12
-    },
-    {
-      "platz": 75,
+      "platz": 82,
       "vorname": "Ralf",
       "name": "Scherzinger",
       "punkte": 12
     },
     {
-      "platz": 81,
-      "vorname": "Lars",
-      "name": "Schwär",
-      "punkte": 11
+      "platz": 82,
+      "vorname": "Jessica",
+      "name": "Benz",
+      "punkte": 12
     },
     {
-      "platz": 81,
-      "vorname": "Lisa",
-      "name": "Walter",
-      "punkte": 11
-    },
-    {
-      "platz": 81,
+      "platz": 88,
       "vorname": "Renate",
       "name": "Knöpfle",
       "punkte": 11
     },
     {
-      "platz": 84,
-      "vorname": "Anna",
-      "name": "Winterhalder",
-      "punkte": 10
-    },
-    {
-      "platz": 84,
-      "vorname": "Matthias",
-      "name": "Rogg",
-      "punkte": 10
-    },
-    {
-      "platz": 84,
-      "vorname": "Ralf",
-      "name": "Bährmann",
-      "punkte": 10
-    },
-    {
-      "platz": 84,
-      "vorname": "Jonas",
-      "name": "Bäre",
-      "punkte": 10
-    },
-    {
-      "platz": 84,
-      "vorname": "Jessica",
-      "name": "Benz",
-      "punkte": 10
-    },
-    {
-      "platz": 84,
-      "vorname": "Tim",
-      "name": "Heizmann",
-      "punkte": 10
+      "platz": 88,
+      "vorname": "Felix",
+      "name": "Döbele",
+      "punkte": 11
     },
     {
       "platz": 90,
       "vorname": "Bernd",
       "name": "Knöpfle",
-      "punkte": 8
+      "punkte": 10
     },
     {
       "platz": 90,
-      "vorname": "Dorothea",
-      "name": "Knöpfle-Rohrer",
-      "punkte": 8
+      "vorname": "Lea",
+      "name": "Heizmann",
+      "punkte": 10
     },
     {
-      "platz": 92,
-      "vorname": "Felix",
-      "name": "Döbele",
-      "punkte": 7
+      "platz": 90,
+      "vorname": "Tim",
+      "name": "Heizmann",
+      "punkte": 10
     },
     {
       "platz": 93,
-      "vorname": "Lea",
-      "name": "Heizmann",
-      "punkte": 6
+      "vorname": "Dorothea",
+      "name": "Knöpfle-Rohrer",
+      "punkte": 8
     }
   ]
 }
